@@ -15,8 +15,7 @@ The models (from small to large) were as follows:
 3. Residual Neural Network 18 (ResNet18) vs. ResNet50
 
    [(He et al., 2015)](https://arxiv.org/abs/1512.03385)
-   
-![resnet](https://github.com/user-attachments/assets/c3400c24-72b6-4b16-bc1c-398cefa6d2e7)
+   ![download](https://github.com/user-attachments/assets/01a81ba7-12ce-48f0-8623-e8f9915578af)
 
 4. Inception-V3 vs. Inception-V4
    [(Szegedy et al., 2015)](https://arxiv.org/abs/1512.00567)
