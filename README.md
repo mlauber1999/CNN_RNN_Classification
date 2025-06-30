@@ -13,7 +13,7 @@ The models (from large to small) were as follows:
    [(He et al., 2015)](https://arxiv.org/abs/1512.03385)
 
 5. Inception-V4 vs. Inception-V3
-   [Rethinking the Inception Architecture for Computer Vision (Szegedy et al., 2015)](https://arxiv.org/abs/1512.00567)
+   [(Szegedy et al., 2015)](https://arxiv.org/abs/1512.00567)
 
 
 
