@@ -25,3 +25,27 @@ The models (from small to large) were as follows:
 
 
 
+"Of all the models, the Bidirectional RNN had the lowest RMSE across both the small and large dataset sizes, which is likely due to bidirectional nature capable of identifying patterns that unidirectional models might miss. The model with the biggest change in RMSE between the small and large datasets was the Deep RNN... it is possible that this complex of a model had a hard time with only 10 years of data but then was able to perform drastically better when given a more extensive dataset to learn from."
+— Project Report
+
+Skills Demonstrated
+Synthetic data generation for time series experiments
+
+Implementation and comparison of advanced RNN architectures in PyTorch
+
+Performance evaluation using RMSE
+
+Visualization and interpretation of time series model predictions
+
+Dependencies
+Python 3.x
+
+PyTorch
+
+pandas, numpy, matplotlib
+
+scikit-learn
+
+statsmodels
+
+These markdown files are ready to be pasted into your GitHub repositories as README documents, clearly presenting your skills and approach as a data scientist and machine learning practitioner
