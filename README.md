@@ -10,7 +10,11 @@ The models (from large to small) were as follows:
    [(Simonyan & Zisserman, 2014)](https://arxiv.org/abs/1409.1556)
 
 3. Residual Neural Network 50 (ResNet50) vs. ResNet18
-4. Inception-V4 vs. Inception-V3
+   [(He et al., 2015)](https://arxiv.org/abs/1512.03385)
+
+5. Inception-V4 vs. Inception-V3
+   [Rethinking the Inception Architecture for Computer Vision (Szegedy et al., 2015)](https://arxiv.org/abs/1512.00567)
+
 
 
 
